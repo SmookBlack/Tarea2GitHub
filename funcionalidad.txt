@@ -1,1 +1,3 @@
-"Mejora en la funcionalidad por parte de Cahuaya Herlan" 
+"Mejora en la funcionalidad por parte de Cahuaya Herlan"
+Nueva funcionalidad
+código en main con mejoras aplicadas rafa
